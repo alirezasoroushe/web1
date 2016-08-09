@@ -1,0 +1,129 @@
+a:hover{
+    text-decoration: none;
+}
+
+#navList li{
+    display: inline-block;
+    list-style: none;
+    width: 112px;
+    height: 80px;
+    color: #fff;
+    padding: 25px 0;
+    text-align: center;
+}
+
+#navList a{
+    color: #fff;
+}
+body{margin: 0;
+    font-family: "open sans"
+}
+#headerBanner{background-color: #000;
+    height: 60px;
+    padding: 15px 0;
+}
+input{background-color: transparent;
+    width: 300px ;
+; height: 30px ;
+    border: 1px solid #424242;
+    color: #fff;
+    padding: 0 10px;
+}
+#headpic{background: url('Amber/Lake-and-mountains-in-sunrise.jpg') ;
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+}
+#headhome{height: 80px;
+    background-color: rgba(0,0,0,0.5);
+    width: 100%
+}
+#logo{height: 80px;
+    width: auto;
+    opacity: 0.2
+}
+#li1{border-top: 8px yellow solid
+}
+#li2{border-top: 8px orange solid
+}
+#li3{border-top: 8px #ff3a99 solid
+}
+#li4{border-top: 8px #ff0773 solid
+}
+#li5{border-top: 8px #6200ea solid
+}
+#li6{border-top: 8px #1a237e solid
+}
+#li7{border-top: 8px deepskyblue solid
+}
+#pro{margin-top: 150px;
+}
+#title{font-family: sans-serif;
+    color: #fff;
+    font-size: 50px
+}
+#text{margin-top: 220px;
+    padding-left: 330px
+}
+#girl{padding-top: 50px;
+    width: 100%
+}
+#art{padding-top: 20px;color: #ffb446;
+}
+#description{color: #ffb446
+}
+#slide{padding-top: 50px
+}
+#buy{border: solid;
+    border-color: #ffb446;
+    background-color: white;
+    color: #ffb446;
+    padding: 6px  20px;
+    font-family: sans-serif ;
+margin-top: 45px;
+    font-size: 10px
+}
+.undergirl{margin-top: 30px;
+    padding: 0 1px;
+    margin-bottom: 90px
+}
+#f{margin-left: 350px
+}
+#third{background-color:rgba(18, 27, 45, 0.91)
+}
+#map{width: 200px;height: 150px;
+    margin-top: 4px;
+    margin-bottom: 90px;
+}
+.paeen{color: white;
+    margin-top: 100px}
+.under{color: white
+}
+.follow{color: white;
+    margin-left: 12px
+}
+.ff{margin: 12px 0
+}
+.green{color:#148176
+}
+.gray{color:grey
+}
+#get{border-top: solid 14px #a41fff;
+}
+#latest{border-top: solid 14px deepskyblue
+}
+#followus{border-top: solid 14px #ff3a99
+}
+#populer{border-top: solid 14px yellow
+}
+@font-face{font-family: open sans;src:url(folder-fonts);}
+#search{margin: -20px;
+}
+#back{background-color: transparent;
+    border: solid ;
+    color: white;
+    border-color: #148176;
+    padding: 5px 30px;
+    margin-left: 50px;
+    margin-bottom: 50px
+}
